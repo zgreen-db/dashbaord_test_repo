@@ -2,8 +2,9 @@
   "pages": [
     {
       "name": "7b23efad",
-      "displayName": "Hello World (Unrevised)",
-      "pageType": "PAGE_TYPE_CANVAS"
+      "displayName": "Hello World (Testing update)",
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layoutVersion": "GRID_V1"
     }
   ],
   "uiSettings": {
